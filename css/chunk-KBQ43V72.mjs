@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-NJHNUGNR.mjs";var e=a=>({bodyClassName:"framer-body-um0uCesOq",breakpoints:[{hash:"wmmsff"}],elements:{},title:t(a).title||"Solution Retailer",viewport:"width=1440"}),s=e,m=1,d={exports:{default:{type:"variable",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{s as a,m as b,d as c};
+//# sourceMappingURL=chunk-KBQ43V72.mjs.map
